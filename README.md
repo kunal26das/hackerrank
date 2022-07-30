@@ -10,3 +10,7 @@
 3. [Java (Basic) Certificate](https://www.hackerrank.com/certificates/15c4f1f73fe4)
 
 ![https://www.hackerrank.com/certificates/15c4f1f73fe4](https://raw.githubusercontent.com/kunal26das/HackerRank/master/Java%20(Basic)%20Certificate.png)
+
+4. [Problem Solving (Basic) Certificate](https://www.hackerrank.com/certificates/d90cdf7c7cbc)
+
+![https://www.hackerrank.com/certificates/d90cdf7c7cbc](https://github.com/kunal26das/hackerrank/blob/master/Problem%20Solving%20(Basic)%20Certificate.png)
