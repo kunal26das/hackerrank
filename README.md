@@ -13,4 +13,4 @@
 
 4. [Problem Solving (Basic) Certificate](https://www.hackerrank.com/certificates/d90cdf7c7cbc)
 
-![https://www.hackerrank.com/certificates/d90cdf7c7cbc](https://github.com/kunal26das/hackerrank/blob/master/Problem%20Solving%20(Basic)%20Certificate.png)
+![https://www.hackerrank.com/certificates/d90cdf7c7cbc](https://github.com/kunal26das/hackerrank/blob/master/Problem%20Solving%20(Basic)%20Certificate.png?raw=true)
